@@ -1,4 +1,3 @@
-# crude-oil-inflation-analysis
 # Crude Oil Price and Inflation Analysis
 
 ## Objective
