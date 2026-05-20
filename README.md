@@ -31,3 +31,9 @@ Analyze crude oil price fluctuations and their impact using data analysis and vi
 ## Dashboard Preview
 
 ![Dashboard](Regional Revenue Distribution.png)
+## Key Results
+
+- Identified regional revenue differences
+- Analyzed crude oil fluctuation impact
+- Created visualization dashboard
+- Performed trend analysis
